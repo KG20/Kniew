@@ -1,0 +1,81 @@
+Australia,en.australian#holiday@group.v.calendar.google.com
+Austria,en.austrian#holiday@group.v.calendar.google.com
+Brazil,en.brazilian#holiday@group.v.calendar.google.com
+Canada,en.canadian#holiday@group.v.calendar.google.com
+China,en.china#holiday@group.v.calendar.google.com
+Christian,en.christian#holiday@group.v.calendar.google.com
+Sweden,en.danish#holiday@group.v.calendar.google.com
+Norway,en.danish#holiday@group.v.calendar.google.com
+Denmark,en.danish#holiday@group.v.calendar.google.com
+Netherlands,en.dutch#holiday@group.v.calendar.google.com
+Finland,en.finnish#holiday@group.v.calendar.google.com
+France,en.french#holiday@group.v.calendar.google.com
+Germany,en.german#holiday@group.v.calendar.google.com
+Greece,en.greek#holiday@group.v.calendar.google.com
+Hong Kong (C),en.hong_kong_c#holiday@group.v.calendar.google.com
+Hong Kong,en.hong_kong#holiday@group.v.calendar.google.com
+India,en.indian#holiday@group.v.calendar.google.com
+Indonesia,en.indonesian#holiday@group.v.calendar.google.com
+Iran,en.iranian#holiday@group.v.calendar.google.com
+Ireland,en.irish#holiday@group.v.calendar.google.com
+Islamic,en.islamic#holiday@group.v.calendar.google.com
+Italy,en.italian#holiday@group.v.calendar.google.com
+Japan,en.japanese#holiday@group.v.calendar.google.com
+Jewish,en.jewish#holiday@group.v.calendar.google.com
+Malaysia,en.malaysia#holiday@group.v.calendar.google.com
+Mexico,en.mexican#holiday@group.v.calendar.google.com
+New Zealand,en.new_zealand#holiday@group.v.calendar.google.com
+Norway,en.norwegian#holiday@group.v.calendar.google.com
+Philippines,en.philippines#holiday@group.v.calendar.google.com
+Poland,en.polish#holiday@group.v.calendar.google.com
+Portugal,en.portuguese#holiday@group.v.calendar.google.com
+Russia,en.russian#holiday@group.v.calendar.google.com
+Singapore,en.singapore#holiday@group.v.calendar.google.com
+South Africa,en.sa#holiday@group.v.calendar.google.com
+South Korean,en.south_korea#holiday@group.v.calendar.google.com
+Spain,en.spain#holiday@group.v.calendar.google.com
+Swedish,en.swedish#holiday@group.v.calendar.google.com
+Taiwan,en.taiwan#holiday@group.v.calendar.google.com
+Thai,en.thai#holiday@group.v.calendar.google.com
+United Kingdom,en.uk#holiday@group.v.calendar.google.com
+United States,en.usa#holiday@group.v.calendar.google.com
+Vietnam,en.vietnamese#holiday@group.v.calendar.google.com
+アイルランドの祝日,ja.irish#holiday@group.v.calendar.google.com
+アメリカの祝日,ja.usa#holiday@group.v.calendar.google.com
+イギリスの祝日,ja.uk#holiday@group.v.calendar.google.com
+イスラム教の祝日,ja.islamic#holiday@group.v.calendar.google.com
+イタリアの祝日,ja.italian#holiday@group.v.calendar.google.com
+インドの祝日,ja.indian#holiday@group.v.calendar.google.com
+インドネシアの祝日,ja.indonesian#holiday@group.v.calendar.google.com
+オランダの祝日,ja.dutch#holiday@group.v.calendar.google.com
+オーストラリアの祝日,ja.australian#holiday@group.v.calendar.google.com
+オーストリアの祝日,ja.austrian#holiday@group.v.calendar.google.com
+カナダの祝日,ja.canadian#holiday@group.v.calendar.google.com
+キリスト教の祝日,ja.christian#holiday@group.v.calendar.google.com
+ギリシャの祝日,ja.greek#holiday@group.v.calendar.google.com
+シンガポールの祝日,ja.singapore#holiday@group.v.calendar.google.com
+スウェーデンの祝日,ja.swedish#holiday@group.v.calendar.google.com
+スペインの祝日,ja.spain#holiday@group.v.calendar.google.com
+タイの祝日,ja.thai#holiday@group.v.calendar.google.com
+デンマークの祝日,ja.danish#holiday@group.v.calendar.google.com
+ドイツの祝日,ja.german#holiday@group.v.calendar.google.com
+ニュージーランドの祝日,ja.new_zealand#holiday@group.v.calendar.google.com
+ノルウェイの祝日,ja.norwegian#holiday@group.v.calendar.google.com
+フィリピンの祝日,ja.philippines#holiday@group.v.calendar.google.com
+フィンランドの祝日,ja.finnish#holiday@group.v.calendar.google.com
+フランスの祝日,ja.french#holiday@group.v.calendar.google.com
+ブラジルの祝日,ja.brazilian#holiday@group.v.calendar.google.com
+ベトナムの祝日,ja.vietnamese#holiday@group.v.calendar.google.com
+ポルトガルの祝日,ja.portuguese#holiday@group.v.calendar.google.com
+ポーランドの祝日,ja.polish#holiday@group.v.calendar.google.com
+マレーシアの祝日,ja.malaysia#holiday@group.v.calendar.google.com
+メキシコの祝日,ja.mexican#holiday@group.v.calendar.google.com
+ユダヤ教の祝日,ja.jewish#holiday@group.v.calendar.google.com
+ロシアの祝日,ja.russian#holiday@group.v.calendar.google.com
+中国の祝日,ja.china#holiday@group.v.calendar.google.com
+韓国の祝日,ja.south_korea#holiday@group.v.calendar.google.com
+南アフリカの祝日,ja.sa#holiday@group.v.calendar.google.com
+台湾の祝日,ja.taiwan#holiday@group.v.calendar.google.com
+日本の祝日,ja.japanese#holiday@group.v.calendar.google.com
+香港(C)の祝日,ja.hong_kong_c#holiday@group.v.calendar.google.com
+香港の祝日,ja.hong_kong#holiday@group.v.calendar.google.com
