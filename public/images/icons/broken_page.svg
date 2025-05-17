@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 56 246"
+   version="1.1"
+   id="ry0IncKv6M">
+  <style
+     id="style3">@-webkit-keyframes B1ggI2cYvaG_ByuqjYPaf_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}25%{-webkit-transform: rotate(10deg);transform: rotate(10deg);}50%{-webkit-transform: rotate(5deg);transform: rotate(5deg);}100%{-webkit-transform: rotate(5deg);transform: rotate(5deg);}}@keyframes B1ggI2cYvaG_ByuqjYPaf_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}25%{-webkit-transform: rotate(10deg);transform: rotate(10deg);}50%{-webkit-transform: rotate(5deg);transform: rotate(5deg);}100%{-webkit-transform: rotate(5deg);transform: rotate(5deg);}}@-webkit-keyframes B1ggI2cYvaG_SyIqstPpM_Animation{0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}25%{-webkit-transform: translate(45px, -5px);transform: translate(45px, -5px);}50%{-webkit-transform: translate(55px, 10px);transform: translate(55px, 10px);}100%{-webkit-transform: translate(55px, 10px);transform: translate(55px, 10px);}}@keyframes B1ggI2cYvaG_SyIqstPpM_Animation{0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}25%{-webkit-transform: translate(45px, -5px);transform: translate(45px, -5px);}50%{-webkit-transform: translate(55px, 10px);transform: translate(55px, 10px);}100%{-webkit-transform: translate(55px, 10px);transform: translate(55px, 10px);}}@-webkit-keyframes SJWlUhcYw6G_Sk88jKvpM_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}25%{-webkit-transform: rotate(25deg);transform: rotate(25deg);}50%{-webkit-transform: rotate(50deg);transform: rotate(50deg);}100%{-webkit-transform: rotate(50deg);transform: rotate(50deg);}}@keyframes SJWlUhcYw6G_Sk88jKvpM_Animation{0%{-webkit-transform: rotate(0deg);transform: rotate(0deg);}25%{-webkit-transform: rotate(25deg);transform: rotate(25deg);}50%{-webkit-transform: rotate(50deg);transform: rotate(50deg);}100%{-webkit-transform: rotate(50deg);transform: rotate(50deg);}}@-webkit-keyframes SJWlUhcYw6G_BkHUoFwpM_Animation{0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}25%{-webkit-transform: translate(20px, 0px);transform: translate(20px, 0px);}50%{-webkit-transform: translate(20px, 5px);transform: translate(20px, 5px);}100%{-webkit-transform: translate(20px, 5px);transform: translate(20px, 5px);}}@keyframes SJWlUhcYw6G_BkHUoFwpM_Animation{0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}25%{-webkit-transform: translate(20px, 0px);transform: translate(20px, 0px);}50%{-webkit-transform: translate(20px, 5px);transform: translate(20px, 5px);}100%{-webkit-transform: translate(20px, 5px);transform: translate(20px, 5px);}}@-webkit-keyframes rkflUn5YPaG_ryQQoKvpz_Animation{0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}25%{-webkit-transform: translate(10px, 0px);transform: translate(10px, 0px);}100%{-webkit-transform: translate(10px, 0px);transform: translate(10px, 0px);}}@keyframes rkflUn5YPaG_ryQQoKvpz_Animation{0%{-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}25%{-webkit-transform: translate(10px, 0px);transform: translate(10px, 0px);}100%{-webkit-transform: translate(10px, 0px);transform: translate(10px, 0px);}}@-webkit-keyframes rkflUn5YPaG_SkRT5YPTG_Animation{0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}25%{-webkit-transform: scale(5, 1);transform: scale(5, 1);}100%{-webkit-transform: scale(5, 1);transform: scale(5, 1);}}@keyframes rkflUn5YPaG_SkRT5YPTG_Animation{0%{-webkit-transform: scale(1, 1);transform: scale(1, 1);}25%{-webkit-transform: scale(5, 1);transform: scale(5, 1);}100%{-webkit-transform: scale(5, 1);transform: scale(5, 1);}}#ry0IncKv6M *{-webkit-animation-duration: 2s;animation-duration: 2s;-webkit-animation-iteration-count: infinite;animation-iteration-count: infinite;-webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);animation-timing-function: cubic-bezier(0, 0, 1, 1);}#B1ggI2cYvaG{fill: #000000;}#SJWlUhcYw6G{fill: #000000;}#rkflUn5YPaG{fill: #000000;}#rkflUn5YPaG_SkRT5YPTG{-webkit-animation-name: rkflUn5YPaG_SkRT5YPTG_Animation;animation-name: rkflUn5YPaG_SkRT5YPTG_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: scale(1, 1);transform: scale(1, 1);}#rkflUn5YPaG_ryQQoKvpz{-webkit-animation-name: rkflUn5YPaG_ryQQoKvpz_Animation;animation-name: rkflUn5YPaG_ryQQoKvpz_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}#SJWlUhcYw6G_BkHUoFwpM{-webkit-animation-name: SJWlUhcYw6G_BkHUoFwpM_Animation;animation-name: SJWlUhcYw6G_BkHUoFwpM_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}#SJWlUhcYw6G_Sk88jKvpM{-webkit-animation-name: SJWlUhcYw6G_Sk88jKvpM_Animation;animation-name: SJWlUhcYw6G_Sk88jKvpM_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: rotate(0deg);transform: rotate(0deg);}#B1ggI2cYvaG_SyIqstPpM{-webkit-animation-name: B1ggI2cYvaG_SyIqstPpM_Animation;animation-name: B1ggI2cYvaG_SyIqstPpM_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: translate(0px, 0px);transform: translate(0px, 0px);}#B1ggI2cYvaG_ByuqjYPaf{-webkit-animation-name: B1ggI2cYvaG_ByuqjYPaf_Animation;animation-name: B1ggI2cYvaG_ByuqjYPaf_Animation;-webkit-transform-origin: 50% 50%;transform-origin: 50% 50%;transform-box: fill-box;-webkit-transform: rotate(0deg);transform: rotate(0deg);}</style>
+  <metadata
+     id="metadata4225">
+    <rdf:rdf>
+      <cc:work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:work>
+    </rdf:rdf>
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4223" />
+  <g
+     data-animator-type="0"
+     data-animator-group="true"
+     id="B1ggI2cYvaG_SyIqstPpM">
+    <g
+       data-animator-type="1"
+       data-animator-group="true"
+       id="B1ggI2cYvaG_ByuqjYPaf">
+      <path
+         id="B1ggI2cYvaG"
+         d="m 34.424212,234.04541 c -4.98644,-5.29799 0.55094,-13.85788 -0.92504,-20.54818 -0.0548,-7.73232 -0.14335,-15.66271 0.40716,-23.45819 -0.66548,-7.44991 -0.67687,-14.59325 -0.84478,-21.90793 -0.61864,-12.16744 -2.781451,-24.1097 -4.164896,-36.18961 -1.722937,-7.75664 -6.994578,-13.70177 -3.613677,-21.70416 1.828806,-7.5716 4.755922,-14.889895 4.606605,-22.919906 -0.538744,-4.387377 -3.540695,-15.473089 3.664658,-9.446829 1.37428,10.471197 -0.98667,20.803313 -3.833941,30.793605 -3.407866,8.83248 1.831418,16.82151 3.963831,25.09829 1.55112,16.52519 4.57869,32.9697 4.0323,49.63287 -0.25335,10.24977 1.01135,20.45426 0.77247,30.67968 -1.08799,3.06926 -1.74359,17.12562 2.13308,9.86229 0.24848,-8.74248 1.88854,-17.2773 2.8622,-26.09315 1.19071,-4.82456 1.91211,-9.40058 1.71323,-14.42896 0.52005,-9.56511 0.43472,-18.85028 1.75952,-28.12906 0.40676,-6.8006 0.54097,-13.03701 1.0355,-20.30653 0.61863,-9.47019 -1.36258,-18.99497 0.24642,-28.52792 0.78227,-8.244502 0.23296,-16.78198 1.78665,-25.027139 0.71194,-8.893068 -2.07364,-17.507302 -3.58814,-26.169023 0.38084,-7.837496 -2.29352,-9.803729 -9.58907,-7.901208 -5.003108,-4.002719 15.66749,-7.533706 4.08781,-5.679981 -6.02868,1.472649 -17.094129,-3.66495 -16.059783,6.74435 1.765836,4.505097 15.459533,0.694755 7.046823,5.592553 -2.788387,0.150561 -2.901887,4.752308 -5.092918,6.821208 2.034768,6.050722 -5.299635,-3.086671 -8.664321,-2.008716 C 12.719167,51.406947 2.8780863,48.074878 0.33226134,38.363314 -1.5605987,30.10038 4.9394873,22.399585 12.07942,19.212738 16.880348,9.3699245 26.657153,1.2102771 37.728302,0.27419562 47.863682,-1.726149 54.549202,7.5803005 56.073972,16.41169 c 1.55931,8.731377 -2.28392,17.43174 -8.7497,23.19015 8.53906,0.275857 0.50338,12.823444 4.08362,18.436778 0.38805,9.314784 4.43006,18.435431 1.94114,27.846848 -1.34122,15.152674 -2.56481,30.460324 -1.24864,45.645314 -0.73571,11.19475 -1.29782,22.36797 -2.46969,33.50531 -0.86905,10.86645 0.22016,21.92398 -1.74498,32.65959 -2.29656,9.23183 -2.4464,18.8936 -2.96692,28.33228 2.52752,9.70272 -3.39009,8.29871 -10.49459,8.01745 z M 26.924216,54.771385 c -3.569517,-1.851826 -1.750823,0.829961 0,0 z m -4.5,-0.493716 c -2.053043,-2.605952 -0.997475,1.442478 0,0 z M 20.753484,49.433182 C 17.8086,41.09181 18.207155,32.731319 19.987639,24.337159 c 2.270701,-8.350994 -8.368702,0.220657 -6.056325,5.350176 -0.980255,6.329017 -2.581764,21.805482 6.822166,19.745847 z m -10.31117,-5.22552 C 7.8190745,38.833858 11.870743,28.319789 9.4549465,25.740858 -0.03881666,29.328294 3.9552043,44.528304 10.657216,45.553523 l -0.214903,-1.345861 z m 13.228747,-4.41105 c 1.384545,-4.678871 -3.783695,-1.38283 -0.960746,1.344225 l 0.96074,-1.344225 z m 20.305091,-3.01806 c 8.91568,-4.805736 11.55779,-17.793896 6.24979,-26.179478 -4.53571,-5.8516412 4.60332,7.883852 -0.79438,10.238261 -1.77147,7.163758 -11.36081,13.539799 -14.16852,16.417461 2.92029,-0.423994 6.00249,1.101949 8.71311,-0.476244 z m -14.741843,-1.61919 c 7.110033,-4.903529 15.821833,-8.816893 16.508063,-18.597027 -6.10124,4.58714 -14.479065,7.708544 -20.513531,13.000734 -2.783756,1.879006 2.313879,6.2824 4.005468,5.596293 z m -0.63393,-13.479987 c 5.451573,-4.26386 16.302663,-9.08727 14.548343,-17.0120892 -5.32378,1.572368 -5.57172,9.8570182 -11.18146,11.5142432 -4.937062,-1.449655 -9.866412,9.117063 -3.366883,5.497846 z m -9.534151,-5.351581 c 5.849447,0.769752 6.670104,-11.5856142 1.354508,-3.274243 -1.18496,0.745369 -5.023668,6.152467 -1.354508,3.274243 z M 29.45141,13.674233 c 5.268412,-0.04918 8.104352,-10.8190032 1.548928,-3.422764 -0.31432,0.588818 -5.765393,4.691948 -1.548928,3.422764 z" />
+    </g>
+  </g>
+  <g
+     data-animator-type="0"
+     data-animator-group="true"
+     id="SJWlUhcYw6G_BkHUoFwpM">
+    <g
+       data-animator-type="1"
+       data-animator-group="true"
+       id="SJWlUhcYw6G_Sk88jKvpM">
+      <path
+         id="SJWlUhcYw6G"
+         d="m 35.822713,246.88892 c 1.792531,-0.47824 3.033088,-2.18913 4.082339,-3.81459 1.111943,-1.7019 2.286186,-3.60771 4.135452,-4.26881 0.616391,-0.20788 1.322773,-0.15041 1.652288,-0.91823 0.925668,-1.28499 0.935844,-3.19686 0.217431,-4.60615 -0.994708,-2.09313 -3.198099,-3.46958 -5.258163,-2.89638 -2.085063,0.1543 -4.245867,0.42924 -6.114717,1.58769 -1.002003,0.60689 -1.838794,1.79475 -1.749802,3.16256 0.05025,0.7492 0.187256,1.55017 0.651855,2.10739 1.201354,1.90735 0.995351,4.37138 1.262034,6.58765 0.131516,1.1078 0.436366,2.23512 1.121283,3.05887 z" />
+    </g>
+  </g>
+  <g
+     data-animator-type="0"
+     data-animator-group="true"
+     id="rkflUn5YPaG_ryQQoKvpz">
+    <g
+       data-animator-type="2"
+       data-animator-group="true"
+       id="rkflUn5YPaG_SkRT5YPTG">
+      <path
+         id="rkflUn5YPaG"
+         d="m 34.773656,247.47705 c 0.809208,0.0668 1.479472,-0.24682 2.115542,-0.47385 0.620908,-0.23517 0.585736,-0.82118 0.866792,-1.22287 0.269512,-0.86961 -1.119568,-1.64982 -2.261184,-1.3449 -0.613882,0.26117 -1.281899,0.54587 -1.727468,0.9537 -0.423037,0.42538 0.06533,0.88681 -0.0036,1.33331 -0.07467,0.4437 0.649924,0.53382 1.009887,0.75461 z" />
+    </g>
+  </g>
+  <script
+     id="script17">(function(){var a=document.querySelector('#ry0IncKv6M'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script>
+</svg>
