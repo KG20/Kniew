@@ -1,0 +1,48 @@
+THINGS THAT NEED TO BE CHANGED EVERYTIME b/w new servers or local and production:
+  - CHANGE config.php (DEVELOPMENT_ENVIRONMENT)
+  - Change .htacess
+  - composer dumpautoload
+  - postgresql, reindex
+  - head, foot (css, js..)
+  
+
+----------------
+
+DATABASE NAME : All small, no delimiter, singular
+TABLE NAME : All small, no delimiter, singular, for ex: professinalratingreply
+COLUMN NAME: All small, no delimiter, singular, for ex: professinalratingreplyid
+
+--------------------------
+
+FILE NAME:
+APPLICATION
+  CONTROLLERS : File name in sentence case Followed by 'Controller' in sentence case,  Singular, for eg: RegisterasprofessionalController.php
+  MODELS : File name in sentence case, singular, for eg: Userloginvalidate.php
+  VIEWS: Folder with file name in all small, eg: registerasprofessional, inside which file name all small, eg: index.php or title.php
+
+LIBRARY: if class, Camel case, followed by ".class", eg: Controller.class.php,
+          if non class file, all small, eg: bootstrap.php
+IMAGES: all small with "_" between words
+
+IN GENERAL: all small, singular
+
+----------------------------
+
+CONTROLLER: CamelCase
+MODELS: Sentance case
+VIEWS: folder- all small/file - all small
+VARIABLE: Small, singular
+FUNCTIONS: CamelCase(mostly modal, but also have allsmall) or allsmall(specialy controller)
+
+----
+view file name - "basictemplate" if indiviual different page for different user but in case of professional just named professional and basictemplate if for search or listing all professional.
+
+-------------------
+
+USERALL ID CAN'T BE REFERENCED AS FK, SO INSTEAD USE RULE, LIKE-
+
+"
+CREATE RULE messagethread_closedby_fkey AS
+    ON INSERT TO website.messagethread   WHERE (NOT (NEW.closedby IN ( SELECT userall.id
+           FROM userall))) DO INSTEAD NOTHING;
+"
