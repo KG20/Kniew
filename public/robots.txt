@@ -1,0 +1,7 @@
+User-agent: * 
+Crawl-Delay: 20
+
+User-agent: Googlebot
+Disallow: /images/profile/
+
+Sitemap: https://www.kniew.com/sitemap.xml
